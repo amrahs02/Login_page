@@ -1,0 +1,57 @@
+body{
+    width: 100%;
+    background-color: rgb(87, 120, 253);
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+/* h1{
+    text-align: left;
+    justify-content: space-between;
+} */
+.login{
+    width: 335px;
+    padding: 20px;  
+    /* margin-left: 500px; */
+    /* position: relative;
+    left: 520px; */
+    text-align: center;
+    background-color: white;
+    border-radius: 8px;
+}
+.box{
+    padding: 8px;
+    border: 2px solid rgb(47, 94, 204);
+    margin: 10px;
+    background-color: white;
+    align-items: center;
+    border-radius: 25px;
+    border-color: #0e4ecf;
+}
+.box:hover{
+    border-color: white;
+}
+h5{
+    color: rgb(172, 177, 188);  
+}
+.signbutton{
+    background-color: #0e4ecf;
+    color: white;
+    border: 2px solid #0e4ecf;
+    border-color: #0e4ecf;
+    width: 50%;
+}
+.signbutton:hover{
+    color: #0e4ecf;
+    border: 2px solid ;
+    border-color: #0e4ecf;
+    background-color: white;
+}
+.or{
+    text-align: center;
+}
+.bottom{
+    text-align: center;
+    color: rgb(172, 177, 188);
+}
+strong{
+    color: #0e4ecf;
+}
